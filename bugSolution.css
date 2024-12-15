@@ -1,0 +1,9 @@
+/* bugSolution.css */
+.my-custom-class {
+  @apply text-blue-500 font-bold;
+}
+
+.my-custom-class-container {
+  @apply bg-gray-200 p-4;
+}
+/* this is the correct implementation of the @apply directive, note that the classes used are defined */
