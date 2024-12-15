@@ -1,0 +1,1 @@
+This issue arises when using Tailwind's `@apply` directive within a component's style block. The `@apply` directive expects a utility class as its argument; however, if the specified class doesn't exist or is misspelled, the compile process may fail silently or produce unexpected results without clear error messages.
